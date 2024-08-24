@@ -1,18 +1,36 @@
-<h1 align="center">hi, i'm ray</h1>
-<h3 align="center">a small dev</h3>
+# About Me - Ray
 
-- i’m currently working on [exophs.github.io](https://github.com/exophs/exophs.github.io)
+[Back](https://exophs-.glitch.me/)
 
-- i’m currently learning **HTML**
+![Profile Picture](https://avatars.githubusercontent.com/u/91388963?v=4)
 
-- how to reach me **.exophs on discord**
+Hi, I'm Ray
+### A Small Dev
 
-- fun fact **you're gay**
+Hi, my name is Ray. I'm 16 years old and I live in South Carolina, USA.
+I'm a small developer with a passion for making websites. I enjoy
+experimenting with different designs and learning new web technologies.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/exophorism" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="exophorism" height="30" width="40" /></a>
-</p>
+I'm currently working on [exophs.github.io](https://github.com/exophs/exophs.github.io)
+![Preview of exophs.github.io](https://ray.confusing.wtf/u/xoSHbY.png)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+I'm currently learning **HTML**.
+
+How to reach me: **.exophs on Discord**
+
+I also enjoy video games.
+
+Contact me: [bezeski@gmail.com](mailto:bezeski@gmail.com)
+
+### Connect with me:
+[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/exophorism)
+
+### Languages and Tools:
+- [CSS](https://www.w3schools.com/css/) ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
+- [HTML](https://www.w3.org/html/) ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
+- [Java](https://www.java.com) ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+- [Linux](https://www.linux.org/) ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
+- [Python](https://www.python.org) ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+
+Made with ❤️ by Ray.
