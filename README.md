@@ -1,6 +1,5 @@
 # About Me - Ray
 
-
 Hi, I'm Ray
 ### A Small Dev
 
@@ -9,7 +8,7 @@ I'm a small developer with a passion for making websites. I enjoy
 experimenting with different designs and learning new web technologies.
 
 I'm currently working on [exophs.github.io](https://github.com/exophs/exophs.github.io)
-![Preview of exophs.github.io](https://ray.confusing.wtf/u/xoSHbY.png)
+<img src="https://ray.confusing.wtf/u/xoSHbY.png" alt="Preview of exophs.github.io" width="300"/>
 
 I'm currently learning **HTML**.
 
@@ -20,14 +19,16 @@ I also enjoy video games.
 Contact me: [bezeski@gmail.com](mailto:bezeski@gmail.com)
 
 ### Connect with me:
-[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/exophorism)
+<a href="https://instagram.com/exophorism" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30"/>
+</a>
 
 ### Languages and Tools:
-- [CSS](https://www.w3schools.com/css/) ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
-- [HTML](https://www.w3.org/html/) ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
-- [Java](https://www.java.com) ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-- [Linux](https://www.linux.org/) ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
-- [Python](https://www.python.org) ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+- [CSS](https://www.w3schools.com/css/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="30"/>
+- [HTML](https://www.w3.org/html/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30"/>
+- [Java](https://www.java.com) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/>
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
+- [Linux](https://www.linux.org/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30"/>
+- [Python](https://www.python.org) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
 
 Made with ❤️ by Ray.
