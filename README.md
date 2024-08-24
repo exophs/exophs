@@ -7,15 +7,26 @@ Hi, my name is Ray. I'm 16 years old and I live in South Carolina, USA.
 I'm a small developer with a passion for making websites. I enjoy
 experimenting with different designs and learning new web technologies.
 
-I'm currently working on [exophs.github.io](https://github.com/exophs/exophs.github.io)
+<img src="https://ray.confusing.wtf/u/xoSHbY.png" alt="Preview of exophs.github.io" width="300"/>
 
-I'm currently learning **HTML**.
-
-How to reach me: **.exophs on Discord**
-
-I also enjoy video games.
-
-Contact me: [bezeski@gmail.com](mailto:bezeski@gmail.com)
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
+    <div>
+        <h3>I'm currently working on</h3>
+        <a href="https://github.com/exophs/exophs.github.io" target="_blank" style="color: #80b3ff;">exophs.github.io</a>
+    </div>
+    <div>
+        <h3>I'm currently learning</h3>
+        <strong>HTML</strong>
+    </div>
+    <div>
+        <h3>How to reach me</h3>
+        <strong>.exophs on Discord</strong>
+    </div>
+    <div>
+        <h3>I also enjoy</h3>
+        <p>video games</p>
+    </div>
+</div>
 
 ### Connect with me:
 <a href="https://instagram.com/exophorism" target="_blank">
