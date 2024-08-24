@@ -7,7 +7,6 @@ Hi, my name is Ray. I'm 16 years old and I live in South Carolina, USA.
 I'm a small developer with a passion for making websites. I enjoy
 experimenting with different designs and learning new web technologies.
 
-<img src="https://ray.confusing.wtf/u/xoSHbY.png" alt="Preview of exophs.github.io" width="300"/>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
     <div>
