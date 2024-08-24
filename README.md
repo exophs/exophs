@@ -1,8 +1,5 @@
 # About Me - Ray
 
-[Back](https://exophs-.glitch.me/)
-
-![Profile Picture](https://avatars.githubusercontent.com/u/91388963?v=4)
 
 Hi, I'm Ray
 ### A Small Dev
