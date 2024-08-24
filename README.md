@@ -8,7 +8,6 @@ I'm a small developer with a passion for making websites. I enjoy
 experimenting with different designs and learning new web technologies.
 
 I'm currently working on [exophs.github.io](https://github.com/exophs/exophs.github.io)
-<img src="https://ray.confusing.wtf/u/xoSHbY.png" alt="Preview of exophs.github.io" width="300"/>
 
 I'm currently learning **HTML**.
 
