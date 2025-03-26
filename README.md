@@ -10,8 +10,6 @@
 [![Instagram](https://img.shields.io/badge/-📷_Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/exophorism)
 [![GitHub](https://img.shields.io/badge/-💻_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/exophs)
 
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
