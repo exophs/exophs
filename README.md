@@ -59,6 +59,6 @@ I'm a passionate self-taught developer specializing in web technologies with a g
 ## 📊  GitHub Stats
 
 <p align="center">
-  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=exophs&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats">
+  <img width="51%" src="https://github-readme-stats.vercel.app/api?username=exophs&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exophs&layout=compact&theme=radical" alt="Top Languages">
 </p>
