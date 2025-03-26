@@ -40,10 +40,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=exophs&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=24)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=exophs&layout=compact&theme=radical&hide=procfile&langs_count=6&exclude_repo=dotfiles)
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=exophs&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=24">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exophs&layout=compact&theme=radical&hide=procfile&langs_count=6">
 </div>
 
 ---
