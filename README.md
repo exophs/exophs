@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ray
 
-### Full Stack Developer | Open Source Enthusiast | Tech Explorer
+### Web Developer | UX/UI Learner | Minecraft Bot Owner
 
 🌍 Based in Pennsylvania  
 📧 Reach me at: bezeski@gmail.com  
