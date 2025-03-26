@@ -1,64 +1,67 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  Hey there, I'm Ray!
+<div align="center">
+  
+# 𝙃𝙚𝙡𝙡𝙤 𝙩𝙝𝙚𝙧𝙚! 👋 𝙄'𝙢 𝙍𝙖𝙮
 
-### 💻  Web Developer  |  🎨  UX/UI Enthusiast  |  🤖  Minecraft Bot Creator
+### 𝙁𝙪𝙡𝙡-𝙎𝙩𝙖𝙘𝙠 𝙒𝙚𝙗 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 • 𝙈𝙞𝙣𝙚𝙘𝙧𝙖𝙛𝙩 𝘽𝙤𝙩 𝘾𝙧𝙚𝙖𝙩𝙤𝙧 • 𝙐𝙓/𝙐𝙄 𝙀𝙣𝙩𝙝𝙪𝙨𝙞𝙖𝙨𝙩
 
-📍  **Pennsylvania, USA**  
-📫  **Email:** [bezeski@gmail.com](mailto:bezeski@gmail.com)  
-💬  **Discord:** .exophs  
+📍 𝙋𝙚𝙣𝙣𝙨𝙮𝙡𝙫𝙖𝙣𝙞𝙖, 𝙐𝙎𝘼 • 💌 𝙗𝙚𝙯𝙚𝙨𝙠𝙞@𝙜𝙢𝙖𝙞𝙡.𝙘𝙤𝙢 • 💬 .𝙚𝙭𝙤𝙥𝙝𝙨
 
-## 🚀  About Me
+[![Portfolio](https://img.shields.io/badge/🌐_My_Portfolio-000000?style=flat-square)](https://exophs.space)
+[![Instagram](https://img.shields.io/badge/📷_Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/exophorism)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/exophs)
 
-I'm a passionate self-taught developer specializing in web technologies with a growing interest in UX/UI design. When I'm not coding, you'll find me developing custom Minecraft bots or exploring new tech stacks.
+</div>
 
-## 🛠️  Tech Stack
+---
 
-### 🔹  Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</p>
+## 🛠️ 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠
 
-### 🔹  Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-</p>
+<div align="center">
 
-## 🔭  Current Projects
+| 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 | 𝙁𝙧𝙖𝙢𝙚𝙬𝙤𝙧𝙠𝙨 & 𝙏𝙤𝙤𝙡𝙨 | 𝘿𝙖𝙩𝙖𝙗𝙖𝙨𝙚𝙨 & 𝘾𝙡𝙤𝙪𝙙 |
+|--------------|----------------------|-------------------|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
 
-- **[exophs.space](https://exophs.space)** - My personal portfolio website
-- **Minecraft Utility Bots** - Custom Discord bots for Minecraft servers
-- **UI Design Experiments** - Practicing design principles
+</div>
 
-## 🌱  Currently Learning
+---
 
-- Frontend Frameworks (React, Vue)
-- Backend Development (Node.js, Express)
-- Database Management (SQLite, Multer, Path, FS)
-- UI/UX Design Principles
+## 🌟 𝙈𝙮 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨
 
-## 📫  Let's Connect
+<div align="center">
 
-<p align="left">
-  <a href="https://instagram.com/exophorism">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://github.com/exophs">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="mailto:bezeski@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **[Personal Portfolio](https://exophs.space)** | My custom-built developer portfolio | React, CSS3, JavaScript |
+| **Minecraft Utility Bots** | Discord bots for Minecraft server management | Node.js, Discord.js, MongoDB |
+| **UI Design System** | Custom design components library | Figma, Storybook, React |
 
-## 📊  GitHub Stats
+</div>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=exophs&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats"> 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exophs&layout=compact&theme=radical&hide=procfile" alt="Top Languages">
-</p>
+---
+
+## 📈 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=exophs&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=24)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=exophs&layout=compact&theme=radical&hide=procfile&langs_count=6&exclude_repo=dotfiles)
+
+</div>
+
+---
+
+## 🌱 𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜
+
+- 𝘼𝙙𝙫𝙖𝙣𝙘𝙚𝙙 𝙍𝙚𝙖𝙘𝙩 𝙋𝙖𝙩𝙩𝙚𝙧𝙣𝙨
+- 𝙉𝙤𝙙𝙚.𝙟𝙨 𝙢𝙞𝙘𝙧𝙤𝙨𝙚𝙧𝙫𝙞𝙘𝙚𝙨 𝙖𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩𝙪𝙧𝙚
+- 𝙁𝙞𝙜𝙢𝙖 𝙙𝙚𝙨𝙞𝙜𝙣 𝙨𝙮𝙨𝙩𝙚𝙢𝙨
+- 𝘿𝙖𝙩𝙖𝙗𝙖𝙨𝙚 𝙤𝙥𝙩𝙞𝙢𝙞𝙯𝙖𝙩𝙞𝙤𝙣
+
+---
+
+<div align="center">
+  
+![Visitor Count](https://komarev.com/ghpvc/?username=exophs&color=blueviolet&style=flat-square)
+
+</div>
