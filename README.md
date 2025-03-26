@@ -26,14 +26,14 @@ I'm a passionate developer with experience in building web applications and solv
 
 ## 🔭 Current Projects
 
-- [Personal Portfolio](https://github.com/exophs/exophs.github.io) - Building my personal website
-- [Project Name] - [Brief description]
+- [Personal Portfolio](https://exophs.space) - Building my personal website
 
 ## 🌱 Learning
 
 - Advanced JavaScript frameworks
 - Backend development
 - UI/UX design principles
+- SQLite database
 
 ## 📫 Let's Connect
 
