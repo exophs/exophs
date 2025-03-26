@@ -2,8 +2,8 @@
 
 ### Full Stack Developer | Open Source Enthusiast | Tech Explorer
 
-🌍 Based in [Your Location]  
-📧 Reach me at: [Your Email]  
+🌍 Based in Pennsylvania  
+📧 Reach me at: bezeski@gmail.com  
 💬 Discord: .exophs  
 
 ## 🚀 About Me
@@ -39,7 +39,6 @@ I'm a passionate developer with experience in building web applications and solv
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/exophorism)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/exophs)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
 ## 📊 GitHub Stats
 
