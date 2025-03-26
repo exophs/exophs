@@ -39,7 +39,7 @@ I'm a passionate self-taught developer specializing in web technologies with a g
 
 - Frontend Frameworks (React, Vue)
 - Backend Development (Node.js, Express)
-- Database Management (SQLite, MongoDB)
+- Database Management (SQLite, Multer, Path, FS)
 - UI/UX Design Principles
 
 ## 📫  Let's Connect
@@ -59,6 +59,6 @@ I'm a passionate self-taught developer specializing in web technologies with a g
 ## 📊  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=exophs&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exophs&layout=compact&theme=radical" alt="Top Languages">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=exophs&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exophs&layout=compact&theme=radical" alt="Top Languages">
 </p>
