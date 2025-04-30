@@ -4,7 +4,7 @@
 
 ### Full-Stack Web Developer • Minecraft Bot Creator • UX/UI Enthusiast
 
-📍 Pennsylvania, USA • 💌 bezeski@gmail.com • 💬 .exophs
+📍 Pennsylvania, USA • 💌 bezeski@gmail.com • 💬 Discord: .exophs
 
 [![Website](https://img.shields.io/badge/-🌐_Portfolio-000000?style=flat-square)](https://exophs.space)
 [![Instagram](https://img.shields.io/badge/-📷_Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/exophorism)
