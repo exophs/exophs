@@ -49,7 +49,6 @@
 
 - Advanced React Patterns
 - Node.js microservices architecture
-- Figma design systems
 - Database optimization
 
 ---
