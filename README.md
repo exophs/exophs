@@ -6,7 +6,7 @@
 
 📍 Pennsylvania, USA • 💌 bezeski@gmail.com • 💬 .exophs
 
-[![Portfolio](https://img.shields.io/badge/-🌐_Portfolio-000000?style=flat-square)](https://exophs.space)
+[![Website](https://img.shields.io/badge/-🌐_Portfolio-000000?style=flat-square)](https://exophs.space)
 [![Instagram](https://img.shields.io/badge/-📷_Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/exophorism)
 [![GitHub](https://img.shields.io/badge/-💻_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/exophs)
 
