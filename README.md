@@ -1,16 +1,16 @@
 <div align="center">
   
-# Hello there! 👋 I'm Ray
+# Hey, I'm Ray
 
 ### Full-Stack Web Developer • Minecraft Bot Creator • UX/UI Enthusiast
 
-📍 Pennsylvania, USA • 💌 bezeski@gmail.com • 💬 Discord: .exophs
+ Pennsylvania, USA •  bezeski@gmail.com •  Discord: .exophs
 
 [![Website](https://img.shields.io/badge/-🌐_Portfolio-000000?style=flat-square)](https://exophs.space)
 [![Instagram](https://img.shields.io/badge/-📷_Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/exophorism)
 [![GitHub](https://img.shields.io/badge/-💻_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/exophs)
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 🌟 My Projects
+##  My Projects
 
 <div align="center">
 
@@ -36,7 +36,7 @@
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=exophs&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=24">
@@ -45,7 +45,7 @@
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Advanced React Patterns
 - Node.js microservices architecture
