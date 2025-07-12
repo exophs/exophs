@@ -4,7 +4,7 @@
 
 ### Full-Stack Web Developer • Minecraft Bot Creator • UX/UI Enthusiast
 
- Pennsylvania, USA •  bezeski@gmail.com •  Discord: .exophs
+  bezeski@gmail.com •  Discord: .exophs
 
 [![Website](https://img.shields.io/badge/-🌐_Portfolio-000000?style=flat-square)](https://exophs.space)
 [![Instagram](https://img.shields.io/badge/-📷_Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/exophorism)
@@ -30,7 +30,6 @@
 |---------|-------------|--------------|
 | **[Personal Portfolio](https://exophs.space)** | My custom-built developer portfolio | React, CSS3, JavaScript |
 | **Minecraft Utility Bots** | Discord bots for Minecraft server management | Node.js, Discord.js |
-| **UI Design System** | Custom design components library | Figma, Storybook, React |
 
 </div>
 
