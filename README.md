@@ -29,7 +29,7 @@
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | **[Personal Portfolio](https://exophs.space)** | My custom-built developer portfolio | React, CSS3, JavaScript |
-| **Minecraft Utility Bots** | Discord bots for Minecraft server management | Node.js, Discord.js, MongoDB |
+| **Minecraft Utility Bots** | Discord bots for Minecraft server management | Node.js, Discord.js |
 | **UI Design System** | Custom design components library | Figma, Storybook, React |
 
 </div>
