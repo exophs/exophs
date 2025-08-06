@@ -2,7 +2,7 @@
   
 # hey, I'm ray (exophs)
 
-### Full-Stack Web Developer • Minecraft Bot Creator • UX/UI Enthusiast
+### Full-Stack Web Developer • UX/UI Enthusiast
 
  bezeski@gmail.com •  Discord: .exophs
 
