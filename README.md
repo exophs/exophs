@@ -50,6 +50,7 @@
 </div>
 
 ---
+<div align="center">
 
 ## Currently Learning
 
@@ -57,4 +58,5 @@
 - Node.js microservices architecture
 - Database optimization
 
+<div/>
 ---
