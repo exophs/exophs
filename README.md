@@ -58,9 +58,3 @@
 - Database optimization
 
 ---
-
-<div align="center">
-  
-![Visitor Count](https://komarev.com/ghpvc/?username=exophs&color=blueviolet&style=for-the-badge)
-
-</div>
