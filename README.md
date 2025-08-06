@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hey, I'm ray (exophs)
+# hey, I'm ray (exophs)
 
 ### Full-Stack Web Developer • Minecraft Bot Creator • UX/UI Enthusiast
 
