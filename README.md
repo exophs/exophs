@@ -4,7 +4,7 @@
 
 <kbd>
     <br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; Full-Stack Web Developer ■ UX/UI Enthusiast &nbsp; &nbsp;  &nbsp; &nbsp;
+    &nbsp; &nbsp;  &nbsp; Full-Stack Web Developer ■ UX/UI Enthusiast &nbsp; &nbsp;  &nbsp;
     <br> <br>
 </kbd>
 
