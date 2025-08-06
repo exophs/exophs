@@ -2,7 +2,11 @@
   
 # hey, I'm ray (exophs)
 
-### Full-Stack Web Developer • UX/UI Enthusiast
+<kbd>
+    <br>
+    &nbsp; &nbsp;  &nbsp; &nbsp; ■ Machine ■ Operating System ■ Artwork ■  &nbsp; &nbsp;  &nbsp; &nbsp;
+    <br> <br>
+</kbd>
 
  bezeski@gmail.com •  Discord: .exophs
 
