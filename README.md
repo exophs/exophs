@@ -30,7 +30,7 @@
 |---------|-------------|--------------|
 | **[My Website](https://exophs.vercel.app/)** | My personal website I have other random projects on | React, CSS3, JavaScript |
 | **[Discord Status Website](https://stellar-status.vercel.app/)** | Shows my Discord status in real-time | JavaScript, CSS3, HTML5 |
-| **Minecraft Utility Bots** | Minecraft Chat Bot with commands and Discord Message API | Node.js, Discord.js, Mineflayer |
+| **[Minecraft Chat Bot](https://exophs.space/ExophsBot/)** | Minecraft Chat Bot with commands and Discord Message API | Node.js, Discord.js, Mineflayer |
 
 </div>
 
