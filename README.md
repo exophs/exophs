@@ -11,10 +11,9 @@
 </div>
 
 ---
+<div align="center">
 
 ## tools i use often
-
-<div align="center">
 
 | **Languages**               | **Frameworks & Tools**       | **Databases**            |
 |-----------------------------|------------------------------|--------------------------|
@@ -23,10 +22,9 @@
 </div>
 
 ---
+<div align="center">
 
 ## my projects
-
-<div align="center">
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
