@@ -13,7 +13,7 @@
 ---
 <div align="center">
 
-## tools i use often
+## tools I use often
 
 | **Languages**               | **Frameworks & Tools**       | **Databases**            |
 |-----------------------------|------------------------------|--------------------------|
