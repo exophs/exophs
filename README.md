@@ -2,13 +2,7 @@
   
 # hey, I'm ray (exophs)
 
-<kbd>
-    <br>
-    &nbsp; &nbsp; &nbsp; &nbsp; Full-Stack Web Developer ■ UX/UI Enthusiast &nbsp; &nbsp;  &nbsp; &nbsp;
-    <br> <br>
-</kbd>
-
- bezeski@gmail.com •  Discord: .exophs
+ bezeski@gmail.com •  discord: .exophs
 
 [![Website](https://img.shields.io/badge/-🌐_Portfolio-000000?style=for-the-badge)](https://exophs.vercel.app/)
 [![Instagram](https://img.shields.io/badge/-📷_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/exophorism)
@@ -18,7 +12,7 @@
 
 ---
 
-## Tech Stack
+## tools i use often
 
 <div align="center">
 
@@ -30,7 +24,7 @@
 
 ---
 
-## My Projects
+## my projects
 
 <div align="center">
 
@@ -41,24 +35,5 @@
 | **Minecraft Utility Bots** | Minecraft Chat Bot with commands and Discord Message API | Node.js, Discord.js, Mineflayer |
 
 </div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-  
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=exophs&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=24">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exophs&layout=compact&theme=radical&hide=procfile&langs_count=6">
-
-</div>
-
----
-
-## Currently Learning
-
-- Advanced React Patterns
-- Node.js microservices architecture
-- Database optimization
 
 ---
