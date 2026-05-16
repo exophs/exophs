@@ -1,6 +1,8 @@
 <div align="center">
-
-![Lain](https://i.imgur.com/w9l88DJ.jpeg)
+  <img src="https://i.imgur.com/w9l88DJ.jpeg" 
+       alt="Lain" 
+       style="pointer-events: none; user-select: none; max-width: 100%;">
+</div>
   
 # hey, I'm ray (exophs)
 
