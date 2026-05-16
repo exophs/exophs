@@ -28,8 +28,8 @@
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| **[My Website](https://exophs.vercel.app/)** | My personal website I have other random projects on | React, CSS3, JavaScript |
-| **[Stellar](https://exophs.is-a.dev/)** | Shows my Discord status in real-time | JavaScript, CSS3, HTML5 |
+| **[My Website](https://github.com/exophs/exophs-site)** | My personal website I have other random projects on | React, CSS3, JavaScript |
+| **[Stellar](https://github.com/exophs/Stellar)** | Shows my Discord status in real-time | JavaScript, CSS3, HTML5 |
 | **[ExophsBot](https://exophs.space/ExophsBot/)** | Minecraft Chat Bot with commands and Discord Message API | Node.js, Discord.js, Mineflayer |
 
 </div>
