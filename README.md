@@ -35,3 +35,10 @@
 </div>
 
 ---
+
+<details>
+  <summary>Hey open this 😏</summary>
+  <br>
+  <div align="center">
+  Hah get tricked faggot 🤭
+</details>
