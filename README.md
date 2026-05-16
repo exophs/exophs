@@ -1,4 +1,6 @@
 <div align="center">
+
+![Lain](https://i.imgur.com/w9l88DJ.jpeg)
   
 # hey, I'm ray (exophs)
 
