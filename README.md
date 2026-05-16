@@ -6,9 +6,9 @@
 
  bezeski@gmail.com •  discord: .exophs
 
-[![Website](https://img.shields.io/badge/-🌐_Portfolio-000000?style=for-the-badge)](https://exophs.vercel.app/)
-[![Instagram](https://img.shields.io/badge/-📷_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/exophorism)
-[![GitHub](https://img.shields.io/badge/-💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/exophs)
+[![Website](https://img.shields.io/badge/-My%20Website-000000?style=for-the-badge)](https://exophs.vercel.app/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/exophorism)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/exophs)
 
 </div>
 
@@ -39,7 +39,7 @@
 ---
 
 <details>
-  <summary>Hey open this 😏</summary>
+  <summary>Hey open this to see a naked man 😏</summary>
   <br>
   <div align="center">
   Hah get tricked faggot 🤭
