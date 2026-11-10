@@ -10,7 +10,7 @@ small dev from pennsylvania. I make websites, roblox games, minecraft mods, and 
 [![Discord](https://img.shields.io/badge/-.exophs-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/494913490419449857)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/exophorism)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/494913490419449857)](https://discord.com/users/494913490419449857)
+[![Discord Presence](https://lanyard.cnrad.dev/api/494913490419449857?theme=dark&bg=151515&borderRadius=6px&showDisplayName=true&hideDiscrim=true&idleMessage=probably%20coding%20something...)](https://discord.com/users/494913490419449857)
 
 ### tools I use often
 
