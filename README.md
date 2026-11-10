@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.imgur.com/p5AtyQu.jpeg"/>
+<img src="./lain.jpeg"/>
 
 # hey, I'm ray (exophs)
 
