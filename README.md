@@ -6,7 +6,7 @@
 
  bezeski@gmail.com •  discord: .exophs
 
-[![Website](https://img.shields.io/badge/-My%20Website-000000?style=for-the-badge)](https://exophs.vercel.app/)
+[![Website](https://img.shields.io/badge/-My%20Website-000000?style=for-the-badge)](https://exophs.dev)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/exophorism)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/exophs)
 
@@ -42,5 +42,5 @@
   <summary>Hey open this to see a naked man 😏</summary>
   <br>
   <div align="center">
-  Hah get tricked faggot 🤭
+  heh get tricked 🤭
 </details>
